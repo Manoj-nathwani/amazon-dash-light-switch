@@ -1,0 +1,14 @@
+{  
+   "amazon_buttons":[  
+      {  
+         "name":"Smart Water",
+         "mac_address":"74:c2:46:13:2b:b3",
+         "image": "http://i.imgur.com/qn8AIuy.png"
+      },
+      {  
+         "name":"Gerber",
+         "mac_address":"a0:02:dc:37:24:5e",
+         "image": "http://i.imgur.com/zzIDPpW.png"
+      }
+   ]
+}
